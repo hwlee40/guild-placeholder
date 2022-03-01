@@ -30,4 +30,7 @@ a{
     h1{
         font-size: 7vw;
     }
+    body{
+        margin: 24px;
+    }
 }
