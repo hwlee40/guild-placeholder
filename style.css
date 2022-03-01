@@ -11,7 +11,7 @@ h1{
     font-family: 'Authentic Sans', sans-serif;
     font-weight: normal;
     line-height: 130%;
-    font-size: 7vw;
+    font-size: 5.5vw;
     margin: 0;
 }
 a{
@@ -26,5 +26,8 @@ a{
     .logo{
         width: 12vw;
         margin: 0 16px 24px 0;
+    }
+    h1{
+        font-size: 7vw;
     }
 }
