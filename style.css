@@ -34,3 +34,10 @@ a{
         margin: 24px;
     }
 }
+
+@media (min-width: 1500px) {
+    h1{
+        font-size: 90px;
+        max-width: 1500px;
+    }
+}
